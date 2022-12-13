@@ -2,7 +2,7 @@
   "homepage": "http://henibenamara.github.io/portfolio",
  
   "name": "protofolio",
-  "homepage":".",
+  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
